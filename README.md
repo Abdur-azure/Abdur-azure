@@ -1,5 +1,7 @@
+<div align=center>
 ### 💫 About Me:
 I’m currently learning MERN<br>I’m also practicing .Net technology developments
+</div>
 
 
 ## 🌐 Socials:
