@@ -1,6 +1,6 @@
 
 ### 💫 About Me:
-I’m currently learning MERN alongside I'm also practicing .Net technology developments
+I’m currently learning Blazor alongside I'm also practicing .Net technology developments
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdur-rahman-267b87149) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21489295/abdur-azure)
